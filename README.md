@@ -21,18 +21,3 @@ To compile any program, use:
 
 ```bash
 g++ filename.cpp -o output_name
-For example, to compile the linear regression program:
-
-bash
-Copy
-Edit
-g++ linear_regression.cpp -o linear_regression
-./linear_regression
-Usage
-Run the compiled executable from your terminal. The programs contain example data and print the results to the console.
-
-Contributing
-Contributions are welcome! Feel free to open issues or submit pull requests to add new algorithms or improve existing ones.
-
-
-
